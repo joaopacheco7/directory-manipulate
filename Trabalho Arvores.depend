@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1630184511 source:/home/joao/Documentos/UTFPR/estruturaDeDados/Trabalho Arvores/workTree.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"workTree.h"
+
+1630184118 /home/joao/Documentos/UTFPR/estruturaDeDados/Trabalho Arvores/workTree.h
+
+1630184985 source:/home/joao/Documentos/UTFPR/estruturaDeDados/Trabalho Arvores/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"workTree.h"
+

@@ -1,0 +1,30 @@
+cd : entrar em uma pasta
+    cd diretorio
+	- entra no diretorio especificado se ele existir
+	- se ele nao existe, entao imprime possiveis alternativas
+
+    cd user
+	- volta ao diretorio raiz (c:)
+
+    cd --
+	-volta ao pai do diretório atual
+
+search : busca uma pasta ou arquivo
+    search arg
+	- busca um arquivo ou pasta pelo seu nome "arg" e informa a
+	sua localizacao
+
+
+rm : remover uma pasta
+    rm diretorio
+	- remove um pasta e seus arquivos (Todo o conteudo de dentro)
+
+list : lista os componentes dentro da pasta em que voce esta
+
+mkdir : cria uma nova pasta
+    mkdir arg
+	- cria uma pasta com o nome "arg" na pasta atual
+
+clear : limpa o conteudo da tela
+
+exit : fecha o programa
